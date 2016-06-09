@@ -13,6 +13,7 @@
 		63220F0F1D08637F0073868C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 63220F0E1D08637F0073868C /* Assets.xcassets */; };
 		63220F121D08637F0073868C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 63220F101D08637F0073868C /* LaunchScreen.storyboard */; };
 		63220F1A1D08638C0073868C /* Telemetry.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63220F191D08638C0073868C /* Telemetry.swift */; };
+		63220F1E1D09A83F0073868C /* Export.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63220F1D1D09A83F0073868C /* Export.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		63220F111D08637F0073868C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		63220F131D08637F0073868C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		63220F191D08638C0073868C /* Telemetry.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Telemetry.swift; path = ../../EmotionRecorder/EmotionRecorder/EmotionRecorder/Telemetry.swift; sourceTree = "<group>"; };
+		63220F1D1D09A83F0073868C /* Export.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Export.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				63220F071D08637F0073868C /* AppDelegate.swift */,
 				63220F091D08637F0073868C /* ViewController.swift */,
+				63220F1D1D09A83F0073868C /* Export.swift */,
 				63220F191D08638C0073868C /* Telemetry.swift */,
 				63220F0B1D08637F0073868C /* Main.storyboard */,
 				63220F0E1D08637F0073868C /* Assets.xcassets */,
@@ -140,6 +143,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				63220F0A1D08637F0073868C /* ViewController.swift in Sources */,
+				63220F1E1D09A83F0073868C /* Export.swift in Sources */,
 				63220F1A1D08638C0073868C /* Telemetry.swift in Sources */,
 				63220F081D08637F0073868C /* AppDelegate.swift in Sources */,
 			);
@@ -291,6 +295,7 @@
 				63220F181D08637F0073868C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

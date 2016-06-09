@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F88BA14B19678AF1418271F65603921C32BD2046",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "F88BA14B19678AF1418271F65603921C32BD2046" : 0,
+    "BC963C38CBBC33A49D58B8DC2F6F8977EF5A5D2D" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E545AE77-41F2-4897-9577-615CF4A2B008",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "F88BA14B19678AF1418271F65603921C32BD2046" : "GyroTest\/",
+    "BC963C38CBBC33A49D58B8DC2F6F8977EF5A5D2D" : "EmotionRecorder\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "GyroTest",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "GyroTest.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/cl305\/EmotionRecorder.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BC963C38CBBC33A49D58B8DC2F6F8977EF5A5D2D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/cl305\/Telemetry.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F88BA14B19678AF1418271F65603921C32BD2046"
+    }
+  ]
+}
